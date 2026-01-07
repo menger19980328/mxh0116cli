@@ -1,0 +1,16 @@
+{
+  "apiID": "package_cc033b__c__function_aadjlxxx4iqhu",
+  "apiName": "autoTestNodejsLongTaskFunc1767767855394",
+  "label": {
+    "zh_CN": "auto Test Nodejs Long Task Func 1767767855394",
+    "en_US": "auto Test Nodejs Long Task Func 1767767855394"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
